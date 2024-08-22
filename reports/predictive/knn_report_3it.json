@@ -1,0 +1,1 @@
+[{"auc": 0.7602339181286549}, {"best_params": {"algorithm": "ball_tree", "n_neighbors": 10, "weights": "distance"}}]

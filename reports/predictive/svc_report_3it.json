@@ -1,0 +1,1 @@
+[{"auc": 0.8109161793372319}, {"best_params": {"C": 10, "gamma": "scale", "kernel": "rbf", "probability": true}}]

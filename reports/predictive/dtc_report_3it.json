@@ -1,0 +1,1 @@
+[{"auc": 0.8391812865497076}, {"best_params": {"class_weight": null, "criterion": "gini", "max_depth": 8, "max_features": 15, "splitter": "random"}}]
